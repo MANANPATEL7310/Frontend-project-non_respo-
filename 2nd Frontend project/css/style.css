@@ -1,0 +1,38 @@
+@media (max-width:767px){
+  .border-bottom-sm-md{
+    border-bottom:1px solid rgba(0,0,0,0.2);
+    margin-top:2vh;
+     }
+  .map{
+    margin-top: 15vh;
+  }
+ 
+  hr{
+    opacity: 0;
+  }
+}
+body {
+  font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+#logo{
+    height:5vh;
+    
+}
+.navbar-dark .navbar-nav .nav-link{
+    /* color:rgb(200,200,200) !important; */
+    font-weight: 200;
+}
+
+.navbar{
+  padding: 0;
+}
+
+.carousel-item{
+  height: 80vh;
+}
+
+.carousel-item img{
+  height:100%;
+}
+
